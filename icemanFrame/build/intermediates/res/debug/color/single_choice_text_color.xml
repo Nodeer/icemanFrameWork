@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- <item android:state_checked="true" android:color="#ffffff"/> -->
+
+    <item android:state_enabled="false" android:color="#cccccc"/>
+    <item android:state_selected="true" android:color="#0065ca"/>
+    <item android:state_checked="true" android:color="#0065ca"/>
+    <item android:state_pressed="true" android:color="#0065ca"/>
+    <item android:color="#333333"/>
+    <!-- <item android:state_selected="true" android:color="#ffffff"/> -->
+
+</selector><!-- From: file:/D:/IdeaProjects/icemanFrameWork/icemanFrame/res/color/single_choice_text_color.xml -->

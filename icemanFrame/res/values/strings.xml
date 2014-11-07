@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">iceman</string>
+    <string name="commom_error_no_result">没有找到符合条件的结果</string>
+    <string name="commom_list_loading_error">网络问题,请再试试吧</string>
+    <string name="commom_list_loading_retry">重试</string>
+    <string name="cancel">取消</string>
+    <string name="ok">确定</string>
+    <string name="know">知道了</string>
+
+</resources>

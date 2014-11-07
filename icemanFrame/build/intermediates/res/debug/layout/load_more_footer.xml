@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="60dip"
+    android:gravity="center" >
+
+    <LinearLayout
+        android:id="@+id/loading_more_layout"
+        android:layout_width="fill_parent"
+        android:layout_height="45dip"
+        android:gravity="center"
+        android:orientation="horizontal" >
+
+        <ProgressBar
+            android:id="@+id/load_more_progressBar"
+            style="?android:attr/progressBarStyleSmall"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:indeterminateDrawable="@drawable/dest_drawable_progress" />
+
+        <TextView
+            android:id="@+id/load_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dip"
+            android:gravity="center"
+            android:text="更多" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/load_complete"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:visibility="gone" />
+
+</RelativeLayout><!-- From: file:/D:/IdeaProjects/icemanFrameWork/icemanFrame/res/layout/load_more_footer.xml -->

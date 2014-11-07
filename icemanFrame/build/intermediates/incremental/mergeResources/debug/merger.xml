@@ -1,0 +1,1446 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="main" >
+        <source path="D:\IdeaProjects\icemanFrameWork\icemanFrame\res" >
+            <file
+                name="anim_close_in"
+                path="D:\IdeaProjects\icemanFrameWork\icemanFrame\res\anim\anim_close_in.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="anim_close_out"
+                path="D:\IdeaProjects\icemanFrameWork\icemanFrame\res\anim\anim_close_out.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="anim_in"
+                path="D:\IdeaProjects\icemanFrameWork\icemanFrame\res\anim\anim_in.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="anim_interpolator"
+                path="D:\IdeaProjects\icemanFrameWork\icemanFrame\res\anim\anim_interpolator.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="anim_interpolator_fragment"
+                path="D:\IdeaProjects\icemanFrameWork\icemanFrame\res\anim\anim_interpolator_fragment.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="anim_out"
+                path="D:\IdeaProjects\icemanFrameWork\icemanFrame\res\anim\anim_out.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="anim_window_close_in"
+                path="D:\IdeaProjects\icemanFrameWork\icemanFrame\res\anim\anim_window_close_in.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="anim_window_close_out"
+                path="D:\IdeaProjects\icemanFrameWork\icemanFrame\res\anim\anim_window_close_out.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="anim_window_in"
+                path="D:\IdeaProjects\icemanFrameWork\icemanFrame\res\anim\anim_window_in.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="anim_window_out"
+                path="D:\IdeaProjects\icemanFrameWork\icemanFrame\res\anim\anim_window_out.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="fade_in"
+                path="D:\IdeaProjects\icemanFrameWork\icemanFrame\res\anim\fade_in.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="fade_out"
+                path="D:\IdeaProjects\icemanFrameWork\icemanFrame\res\anim\fade_out.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="fragment_tab_in"
+                path="D:\IdeaProjects\icemanFrameWork\icemanFrame\res\anim\fragment_tab_in.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="fragment_tab_out"
+                path="D:\IdeaProjects\icemanFrameWork\icemanFrame\res\anim\fragment_tab_out.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="init_img_disappear"
+                path="D:\IdeaProjects\icemanFrameWork\icemanFrame\res\anim\init_img_disappear.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="bg_dropdown_list_item_selector"
+                path="D:\IdeaProjects\icemanFrameWork\icemanFrame\res\color\bg_dropdown_list_item_selector.xml"
+                qualifiers=""
+                type="color" />
+            <file
+                name="single_choice_text_color"
+                path="D:\IdeaProjects\icemanFrameWork\icemanFrame\res\color\single_choice_text_color.xml"
+                qualifiers=""
+                type="color" />
+            <file
+                name="tab_color_selector"
+                path="D:\IdeaProjects\icemanFrameWork\icemanFrame\res\color\tab_color_selector.xml"
+                qualifiers=""
+                type="color" />
+            <file
+                name="title_btn_comm_text_selector"
+                path="D:\IdeaProjects\icemanFrameWork\icemanFrame\res\color\title_btn_comm_text_selector.xml"
+                qualifiers=""
+                type="color" />
+            <file
+                name="all_oval_angle_shape"
+                path="D:\IdeaProjects\icemanFrameWork\icemanFrame\res\drawable\all_oval_angle_shape.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="auto_selector"
+                path="D:\IdeaProjects\icemanFrameWork\icemanFrame\res\drawable\auto_selector.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="bg_cancle_corner"
+                path="D:\IdeaProjects\icemanFrameWork\icemanFrame\res\drawable\bg_cancle_corner.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="bg_cancle_corner_pressed"
+                path="D:\IdeaProjects\icemanFrameWork\icemanFrame\res\drawable\bg_cancle_corner_pressed.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="bg_transparent"
+                path="D:\IdeaProjects\icemanFrameWork\icemanFrame\res\drawable\bg_transparent.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="bottom_oval_angle_shape"
+                path="D:\IdeaProjects\icemanFrameWork\icemanFrame\res\drawable\bottom_oval_angle_shape.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="bottom_oval_angle_shape_normal"
+                path="D:\IdeaProjects\icemanFrameWork\icemanFrame\res\drawable\bottom_oval_angle_shape_normal.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="bottom_oval_angle_shape_pressed"
+                path="D:\IdeaProjects\icemanFrameWork\icemanFrame\res\drawable\bottom_oval_angle_shape_pressed.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="btn_big_selector"
+                path="D:\IdeaProjects\icemanFrameWork\icemanFrame\res\drawable\btn_big_selector.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="btn_closeicon_selector"
+                path="D:\IdeaProjects\icemanFrameWork\icemanFrame\res\drawable\btn_closeicon_selector.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="btn_dialog_selector"
+                path="D:\IdeaProjects\icemanFrameWork\icemanFrame\res\drawable\btn_dialog_selector.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="btn_hotel_order_selector"
+                path="D:\IdeaProjects\icemanFrameWork\icemanFrame\res\drawable\btn_hotel_order_selector.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="btn_title_left_bg_selector"
+                path="D:\IdeaProjects\icemanFrameWork\icemanFrame\res\drawable\btn_title_left_bg_selector.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="btn_title_right_bg_selector"
+                path="D:\IdeaProjects\icemanFrameWork\icemanFrame\res\drawable\btn_title_right_bg_selector.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="dest_drawable_progress"
+                path="D:\IdeaProjects\icemanFrameWork\icemanFrame\res\drawable\dest_drawable_progress.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="home_btn_bg"
+                path="D:\IdeaProjects\icemanFrameWork\icemanFrame\res\drawable\home_btn_bg.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="home_btn_text_color"
+                path="D:\IdeaProjects\icemanFrameWork\icemanFrame\res\drawable\home_btn_text_color.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="home_myctrip_info_selector"
+                path="D:\IdeaProjects\icemanFrameWork\icemanFrame\res\drawable\home_myctrip_info_selector.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="ic_radiobtn_selector"
+                path="D:\IdeaProjects\icemanFrameWork\icemanFrame\res\drawable\ic_radiobtn_selector.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="list_item_bg"
+                path="D:\IdeaProjects\icemanFrameWork\icemanFrame\res\drawable\list_item_bg.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="loading_drawable_progress"
+                path="D:\IdeaProjects\icemanFrameWork\icemanFrame\res\drawable\loading_drawable_progress.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="none_oval_angle_shape"
+                path="D:\IdeaProjects\icemanFrameWork\icemanFrame\res\drawable\none_oval_angle_shape.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="none_oval_angle_shape_normal"
+                path="D:\IdeaProjects\icemanFrameWork\icemanFrame\res\drawable\none_oval_angle_shape_normal.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="none_oval_angle_shape_pressed"
+                path="D:\IdeaProjects\icemanFrameWork\icemanFrame\res\drawable\none_oval_angle_shape_pressed.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="selector_right_bg"
+                path="D:\IdeaProjects\icemanFrameWork\icemanFrame\res\drawable\selector_right_bg.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="top_oval_angle_shape_background"
+                path="D:\IdeaProjects\icemanFrameWork\icemanFrame\res\drawable\top_oval_angle_shape_background.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="top_oval_angle_shape_background_normal"
+                path="D:\IdeaProjects\icemanFrameWork\icemanFrame\res\drawable\top_oval_angle_shape_background_normal.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="top_oval_angle_shape_background_pressed"
+                path="D:\IdeaProjects\icemanFrameWork\icemanFrame\res\drawable\top_oval_angle_shape_background_pressed.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="wheel_bg"
+                path="D:\IdeaProjects\icemanFrameWork\icemanFrame\res\drawable\wheel_bg.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="wheel_val"
+                path="D:\IdeaProjects\icemanFrameWork\icemanFrame\res\drawable\wheel_val.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="all_oval_angle_shape_normal"
+                path="D:\IdeaProjects\icemanFrameWork\icemanFrame\res\drawable-hdpi\all_oval_angle_shape_normal.9.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="all_oval_angle_shape_pressed"
+                path="D:\IdeaProjects\icemanFrameWork\icemanFrame\res\drawable-hdpi\all_oval_angle_shape_pressed.9.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="bg_alert"
+                path="D:\IdeaProjects\icemanFrameWork\icemanFrame\res\drawable-hdpi\bg_alert.9.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="bg_alert_dialog"
+                path="D:\IdeaProjects\icemanFrameWork\icemanFrame\res\drawable-hdpi\bg_alert_dialog.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="bg_common_pressed"
+                path="D:\IdeaProjects\icemanFrameWork\icemanFrame\res\drawable-hdpi\bg_common_pressed.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="bg_loading"
+                path="D:\IdeaProjects\icemanFrameWork\icemanFrame\res\drawable-hdpi\bg_loading.9.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="btn_back_arrow"
+                path="D:\IdeaProjects\icemanFrameWork\icemanFrame\res\drawable-hdpi\btn_back_arrow.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="btn_big_disable"
+                path="D:\IdeaProjects\icemanFrameWork\icemanFrame\res\drawable-hdpi\btn_big_disable.9.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="btn_closeicon"
+                path="D:\IdeaProjects\icemanFrameWork\icemanFrame\res\drawable-hdpi\btn_closeicon.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="btn_closeicon_pressed"
+                path="D:\IdeaProjects\icemanFrameWork\icemanFrame\res\drawable-hdpi\btn_closeicon_pressed.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="btn_hotel_order_disable"
+                path="D:\IdeaProjects\icemanFrameWork\icemanFrame\res\drawable-hdpi\btn_hotel_order_disable.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="btn_sure"
+                path="D:\IdeaProjects\icemanFrameWork\icemanFrame\res\drawable-hdpi\btn_sure.9.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="btn_surepress"
+                path="D:\IdeaProjects\icemanFrameWork\icemanFrame\res\drawable-hdpi\btn_surepress.9.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="btn_titlebar1"
+                path="D:\IdeaProjects\icemanFrameWork\icemanFrame\res\drawable-hdpi\btn_titlebar1.9.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="btn_titlebar1press"
+                path="D:\IdeaProjects\icemanFrameWork\icemanFrame\res\drawable-hdpi\btn_titlebar1press.9.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="btn_titlebar2"
+                path="D:\IdeaProjects\icemanFrameWork\icemanFrame\res\drawable-hdpi\btn_titlebar2.9.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="btn_titlebar2press"
+                path="D:\IdeaProjects\icemanFrameWork\icemanFrame\res\drawable-hdpi\btn_titlebar2press.9.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="common_btn_focus_bg"
+                path="D:\IdeaProjects\icemanFrameWork\icemanFrame\res\drawable-hdpi\common_btn_focus_bg.9.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="common_btn_normal_bg"
+                path="D:\IdeaProjects\icemanFrameWork\icemanFrame\res\drawable-hdpi\common_btn_normal_bg.9.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="icon_arrow"
+                path="D:\IdeaProjects\icemanFrameWork\icemanFrame\res\drawable-hdpi\icon_arrow.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="icon_arrows"
+                path="D:\IdeaProjects\icemanFrameWork\icemanFrame\res\drawable-hdpi\icon_arrows.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="icon_arrowx"
+                path="D:\IdeaProjects\icemanFrameWork\icemanFrame\res\drawable-hdpi\icon_arrowx.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="icon_common_edit"
+                path="D:\IdeaProjects\icemanFrameWork\icemanFrame\res\drawable-hdpi\icon_common_edit.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="icon_common_search"
+                path="D:\IdeaProjects\icemanFrameWork\icemanFrame\res\drawable-hdpi\icon_common_search.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="icon_loading_cancle"
+                path="D:\IdeaProjects\icemanFrameWork\icemanFrame\res\drawable-hdpi\icon_loading_cancle.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="icon_required"
+                path="D:\IdeaProjects\icemanFrameWork\icemanFrame\res\drawable-hdpi\icon_required.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="icon_title_back"
+                path="D:\IdeaProjects\icemanFrameWork\icemanFrame\res\drawable-hdpi\icon_title_back.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="icon_title_back_p"
+                path="D:\IdeaProjects\icemanFrameWork\icemanFrame\res\drawable-hdpi\icon_title_back_p.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="icon_yangtgz"
+                path="D:\IdeaProjects\icemanFrameWork\icemanFrame\res\drawable-hdpi\icon_yangtgz.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ico_checkmark"
+                path="D:\IdeaProjects\icemanFrameWork\icemanFrame\res\drawable-hdpi\ico_checkmark.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ico_loading_l"
+                path="D:\IdeaProjects\icemanFrameWork\icemanFrame\res\drawable-hdpi\ico_loading_l.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ico_not_found"
+                path="D:\IdeaProjects\icemanFrameWork\icemanFrame\res\drawable-hdpi\ico_not_found.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ico_no_network"
+                path="D:\IdeaProjects\icemanFrameWork\icemanFrame\res\drawable-hdpi\ico_no_network.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="imag_check1"
+                path="D:\IdeaProjects\icemanFrameWork\icemanFrame\res\drawable-hdpi\imag_check1.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="imag_check2"
+                path="D:\IdeaProjects\icemanFrameWork\icemanFrame\res\drawable-hdpi\imag_check2.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="img_navigation_grey"
+                path="D:\IdeaProjects\icemanFrameWork\icemanFrame\res\drawable-hdpi\img_navigation_grey.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="img_navigation_orange"
+                path="D:\IdeaProjects\icemanFrameWork\icemanFrame\res\drawable-hdpi\img_navigation_orange.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="initscreen_bg"
+                path="D:\IdeaProjects\icemanFrameWork\icemanFrame\res\drawable-hdpi\initscreen_bg.jpg"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="line_hotel_dotted"
+                path="D:\IdeaProjects\icemanFrameWork\icemanFrame\res\drawable-hdpi\line_hotel_dotted.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="loading_default"
+                path="D:\IdeaProjects\icemanFrameWork\icemanFrame\res\drawable-hdpi\loading_default.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="pic_titlebar"
+                path="D:\IdeaProjects\icemanFrameWork\icemanFrame\res\drawable-hdpi\pic_titlebar.9.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="right_bg"
+                path="D:\IdeaProjects\icemanFrameWork\icemanFrame\res\drawable-hdpi\right_bg.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="right_bg_p"
+                path="D:\IdeaProjects\icemanFrameWork\icemanFrame\res\drawable-hdpi\right_bg_p.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="select_person_btn_gray"
+                path="D:\IdeaProjects\icemanFrameWork\icemanFrame\res\drawable-hdpi\select_person_btn_gray.9.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="select_person_btn_gray_focus"
+                path="D:\IdeaProjects\icemanFrameWork\icemanFrame\res\drawable-hdpi\select_person_btn_gray_focus.9.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="select_person_btn_yellow"
+                path="D:\IdeaProjects\icemanFrameWork\icemanFrame\res\drawable-hdpi\select_person_btn_yellow.9.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="select_person_btn_yellow_focus"
+                path="D:\IdeaProjects\icemanFrameWork\icemanFrame\res\drawable-hdpi\select_person_btn_yellow_focus.9.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="spinner_icon"
+                path="D:\IdeaProjects\icemanFrameWork\icemanFrame\res\drawable-hdpi\spinner_icon.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="dialog_error_layout"
+                path="D:\IdeaProjects\icemanFrameWork\icemanFrame\res\layout\dialog_error_layout.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="dialog_excute_layout"
+                path="D:\IdeaProjects\icemanFrameWork\icemanFrame\res\layout\dialog_excute_layout.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="homepage_layout"
+                path="D:\IdeaProjects\icemanFrameWork\icemanFrame\res\layout\homepage_layout.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="init_screen_layout"
+                path="D:\IdeaProjects\icemanFrameWork\icemanFrame\res\layout\init_screen_layout.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="list_item_drop_down_layout"
+                path="D:\IdeaProjects\icemanFrameWork\icemanFrame\res\layout\list_item_drop_down_layout.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="list_view_loading_indicator"
+                path="D:\IdeaProjects\icemanFrameWork\icemanFrame\res\layout\list_view_loading_indicator.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="load_error_layout_nodata_default"
+                path="D:\IdeaProjects\icemanFrameWork\icemanFrame\res\layout\load_error_layout_nodata_default.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="load_error_layout_normal_default"
+                path="D:\IdeaProjects\icemanFrameWork\icemanFrame\res\layout\load_error_layout_normal_default.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="load_more_footer"
+                path="D:\IdeaProjects\icemanFrameWork\icemanFrame\res\layout\load_more_footer.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="mygallery_view_item"
+                path="D:\IdeaProjects\icemanFrameWork\icemanFrame\res\layout\mygallery_view_item.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="process_load_data_layout"
+                path="D:\IdeaProjects\icemanFrameWork\icemanFrame\res\layout\process_load_data_layout.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="search_by_class_layout"
+                path="D:\IdeaProjects\icemanFrameWork\icemanFrame\res\layout\search_by_class_layout.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="search_by_name_layout"
+                path="D:\IdeaProjects\icemanFrameWork\icemanFrame\res\layout\search_by_name_layout.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="tab_group_buttton"
+                path="D:\IdeaProjects\icemanFrameWork\icemanFrame\res\layout\tab_group_buttton.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                path="D:\IdeaProjects\icemanFrameWork\icemanFrame\res\values\attrs.xml"
+                qualifiers="" >
+                <declare-styleable name="CtripEditableInfoBar" >
+
+                    <!-- Text to display for title. -->
+                    <attr
+                        name="editableinfo_title_value"
+                        format="string" />
+                    <!-- Hint text to display for edittext. -->
+                    <attr
+                        name="editableinfo_hint_value"
+                        format="string" />
+                    <!-- Text color to display for hint. -->
+                    <attr
+                        name="editableinfo_hint_color"
+                        format="integer" />
+                    <!-- When true, show mandatory flag("*") with title text. -->
+                    <attr
+                        name="editableinfo_is_necessary"
+                        format="boolean" />
+                    <!-- Text appearance to display for title. -->
+                    <attr
+                        name="editableinfo_title_appearance"
+                        format="integer" />
+                    <!-- Set an input filter to constrain the text length to the specified number. -->
+                    <attr
+                        name="editableinfo_edit_maxLength"
+                        format="integer" />
+                    <!-- Text appearance to display for edittext. -->
+                    <attr
+                        name="editableinfo_edit_appearance"
+                        format="integer" />
+                    <!-- Deprecated attribute. -->
+                    <attr
+                        name="editableinfo_need_clear"
+                        format="boolean" />
+                    <!-- When true, show arrow drawable. -->
+                    <attr
+                        name="editableinfo_need_arrow"
+                        format="boolean" />
+                    <!-- Drawable to be drawn to the left of title. -->
+                    <attr
+                        name="editableinfo_drawable"
+                        format="reference" />
+                    <!-- Drawable direction to the title -->
+                    <attr
+                        name="editableinfo_drawable_direction"
+                        format="integer" />
+                    <!-- The padding between the drawables and the title text. -->
+                    <attr
+                        name="editableinfo_drawable_padding"
+                        format="dimension" />
+                    <!-- The width of the drawable to be drawn. -->
+                    <attr
+                        name="editableinfo_drawable_width"
+                        format="dimension" />
+                    <!-- The height of the drawable to be drawn. -->
+                    <attr
+                        name="editableinfo_drawable_height"
+                        format="dimension" />
+                    <!-- The type of data being placed in a text field, used to help an input method decide how to let the user enter text. Generally you can select a single value, though some can be combined together as indicated. Setting this attribute to anything besides <var>none</var> also implies that the text is editable. -->
+                    <attr name="editableinfo_inputType" >
+
+                        <!-- Just plain old text. Corresponds to {@link android.text.InputType#TYPE_CLASS_TEXT} | {@link android.text.InputType#TYPE_TEXT_VARIATION_NORMAL}. -->
+                        <flag
+                            name="text"
+                            value="0x00000001" />
+                        <!-- Can be combined with <var>text</var> and its variations to allow multiple lines of text in the field. If this flag is not set, the text field will be constrained to a single line. Corresponds to {@link android.text.InputType#TYPE_TEXT_FLAG_MULTI_LINE}. -->
+                        <flag
+                            name="textMultiLine"
+                            value="0x00020001" />
+                        <!-- Can be combined with <var>text</var> and its variations to allow multiple lines of text in the field. If this flag is not set, the text field will be constrained to a single line. Corresponds to {@link android.text.InputType#TYPE_TEXT_FLAG_MULTI_LINE}. -->
+                        <flag
+                            name="textEmailAddress"
+                            value="0x00020021" />
+                        <!-- Text that is a password. Corresponds to {@link android.text.InputType#TYPE_CLASS_TEXT} | {@link android.text.InputType#TYPE_TEXT_VARIATION_PASSWORD}. -->
+                        <flag
+                            name="textPassword"
+                            value="0x00000081" />
+                        <!-- A numeric only field. Corresponds to {@link android.text.InputType#TYPE_CLASS_NUMBER} | {@link android.text.InputType#TYPE_NUMBER_VARIATION_NORMAL}. -->
+                        <flag
+                            name="number"
+                            value="0x00000002" />
+                        <!-- A numeric password field. Corresponds to {@link android.text.InputType#TYPE_CLASS_NUMBER} | {@link android.text.InputType#TYPE_NUMBER_VARIATION_PASSWORD}. -->
+                        <flag
+                            name="numberPassword"
+                            value="0x00000012" />
+                        <!-- For entering a phone number. Corresponds to {@link android.text.InputType#TYPE_CLASS_PHONE}. -->
+                        <flag
+                            name="phone"
+                            value="0x00000003" />
+                    </attr>
+                </declare-styleable>
+                <declare-styleable name="CtripEditText" >
+
+                    <!-- Hint text to display for edittext. -->
+                    <attr
+                        name="edit_hint_value"
+                        format="string" />
+                    <!-- Text color to display for hint. -->
+                    <attr
+                        name="edit_hint_color"
+                        format="integer" />
+                    <!-- Text appearance to display for edittext. -->
+                    <attr
+                        name="edit_appearance"
+                        format="integer" />
+                    <!-- Set an input filter to constrain the text length to the specified number. -->
+                    <attr
+                        name="edit_maxLength"
+                        format="integer" />
+                    <!-- A drawable to use as the background. This can be either a reference to a full drawable resource (such as a PNG image, 9-patch, XML state list description, etc), or a solid color such as "#ff000000" (black). -->
+                    <attr
+                        name="edit_background"
+                        format="integer" />
+                    <!-- The type of data being placed in a text field, used to help an input method decide how to let the user enter text. Generally you can select a single value, though some can be combined together as indicated. Setting this attribute to anything besides <var>none</var> also implies that the text is editable. -->
+                    <attr name="edit_inputType" >
+
+                        <!-- Just plain old text. Corresponds to {@link android.text.InputType#TYPE_CLASS_TEXT} | {@link android.text.InputType#TYPE_TEXT_VARIATION_NORMAL}. -->
+                        <flag
+                            name="text"
+                            value="0x00000001" />
+                        <!-- Can be combined with <var>text</var> and its variations to allow multiple lines of text in the field. If this flag is not set, the text field will be constrained to a single line. Corresponds to {@link android.text.InputType#TYPE_TEXT_FLAG_MULTI_LINE}. -->
+                        <flag
+                            name="textMultiLine"
+                            value="0x00020001" />
+                        <!-- Can be combined with <var>text</var> and its variations to allow multiple lines of text in the field. If this flag is not set, the text field will be constrained to a single line. Corresponds to {@link android.text.InputType#TYPE_TEXT_FLAG_MULTI_LINE}. -->
+                        <flag
+                            name="textEmailAddress"
+                            value="0x00020021" />
+                        <!-- Text that is a password. Corresponds to {@link android.text.InputType#TYPE_CLASS_TEXT} | {@link android.text.InputType#TYPE_TEXT_VARIATION_PASSWORD}. -->
+                        <flag
+                            name="textPassword"
+                            value="0x00000081" />
+                        <!-- A numeric only field. Corresponds to {@link android.text.InputType#TYPE_CLASS_NUMBER} | {@link android.text.InputType#TYPE_NUMBER_VARIATION_NORMAL}. -->
+                        <flag
+                            name="number"
+                            value="0x00000002" />
+                        <!-- A numeric password field. Corresponds to {@link android.text.InputType#TYPE_CLASS_NUMBER} | {@link android.text.InputType#TYPE_NUMBER_VARIATION_PASSWORD}. -->
+                        <flag
+                            name="numberPassword"
+                            value="0x00000012" />
+                        <!-- For entering a phone number. Corresponds to {@link android.text.InputType#TYPE_CLASS_PHONE}. -->
+                        <flag
+                            name="phone"
+                            value="0x00000003" />
+                    </attr>
+                </declare-styleable>
+                <declare-styleable name="CtripTabGroupButton" >
+
+                    <!-- tab size -->
+                    <attr
+                        name="tab_size"
+                        format="integer" />
+                </declare-styleable>
+                <declare-styleable name="CtripLoadingLayout" >
+
+                    <!-- loading layout id in widgt @layout/list_view_loading_indicator -->
+                    <attr
+                        name="loading_layout"
+                        format="reference" />
+                    <!-- When true, show error layout when server fail. -->
+                    <attr
+                        name="show_error_layout"
+                        format="boolean" />
+                    <!-- net unconnect layout id in widgt @layout/load_error_layout_net_unconnect_default -->
+                    <attr
+                        name="error_layout_net_unconnect"
+                        format="reference" />
+                    <!-- net fail layout id in widgt @layout/list_view_loading_indicator -->
+                    <attr
+                        name="error_layout_net_fail"
+                        format="reference" />
+                    <!-- net timeout layout id in widgt @layout/load_error_layout_net_timeout_default -->
+                    <attr
+                        name="error_layout_net_timeout"
+                        format="reference" />
+                    <!-- data fail layout id in widgt @layout/load_error_layout_net_data_fail_default -->
+                    <attr
+                        name="error_layout_data_fail"
+                        format="reference" />
+                    <!-- normal fail layout id in widgt @layout/load_error_layout_normal_default -->
+                    <attr
+                        name="error_layout_normal_fail"
+                        format="reference" />
+                    <!-- other fail layout id in widgt @layout/load_error_layout_normal_default -->
+                    <attr
+                        name="error_layout_other"
+                        format="reference" />
+                    <!-- no data layout id in widgt @layout/load_error_layout_nodata_default -->
+                    <attr
+                        name="error_layout_no_data_fail"
+                        format="reference" />
+                    <!-- no data layout id in widgt @layout/load_error_layout_nodata_filter_default -->
+                    <attr
+                        name="error_layout_filter_no_data_fail"
+                        format="reference" />
+                    <!-- no login layout id in widgt @layout/load_error_layout_nodata_filter_default -->
+                    <attr
+                        name="error_layout_no_login"
+                        format="reference" />
+                </declare-styleable>
+                <declare-styleable name="XsTitleView" >
+
+                    <!-- Text to display for title. -->
+                    <attr
+                        name="title_text"
+                        format="string"
+                        localization="suggested" />
+                    <!-- Text appearance to display for title. -->
+                    <attr
+                        name="title_text_appearance"
+                        format="integer" />
+
+                    <!-- When true, this widget show left button. -->
+                    <attr
+                        name="title_show_left_btn"
+                        format="boolean" />
+                    <!-- When true, this widget show right button background. -->
+                    <attr
+                        name="title_show_right_btn_bg"
+                        format="boolean" />
+                    <!-- Text to display for left button. -->
+                    <attr
+                        name="title_btn_left_text"
+                        format="string"
+                        localization="suggested" />
+                    <!-- Drawable to be drawn on left button. -->
+                    <attr
+                        name="title_btn_left_drawable"
+                        format="reference" />
+                    <!-- Width of the keft button. -->
+                    <attr
+                        name="title_btn_left_width"
+                        format="dimension" />
+                    <!-- Height of the right button. -->
+                    <attr
+                        name="title_btn_left_height"
+                        format="dimension" />
+                    <!-- A drawable to use as left button's background. -->
+                    <attr
+                        name="title_btn_left_bg"
+                        format="reference" />
+
+                    <!-- Text to display for right button. -->
+                    <attr
+                        name="title_btn_text"
+                        format="string"
+                        localization="suggested" />
+                    <!-- Drawable to be drawn on right button. -->
+                    <attr
+                        name="title_btn_drawable"
+                        format="reference" />
+                    <!-- Text appearance to display for right button. -->
+                    <attr
+                        name="title_btn_text_appearance"
+                        format="integer" />
+                    <!-- Width of the right button. -->
+                    <attr
+                        name="title_btn_width"
+                        format="dimension" />
+                    <!-- Height of the right button. -->
+                    <attr
+                        name="title_btn_height"
+                        format="dimension" />
+                    <!-- A drawable to use as right button's background. -->
+                    <attr
+                        name="title_btn_bg"
+                        format="reference" />
+                    <!-- The padding between the drawables and the text for right button. -->
+                    <attr
+                        name="title_btn_text_padding"
+                        format="dimension" />
+                    <!-- When true, this widget use shadow drawable as its background. -->
+                    <attr
+                        name="title_bg_show_shadow"
+                        format="boolean" />
+                </declare-styleable>
+                <declare-styleable name="XsTextView" >
+
+                    <!-- The drawable to be drawn. -->
+                    <attr
+                        name="text_drawable_src"
+                        format="reference" />
+                    <!-- The direction of the drawable to be drawn. -->
+                    <attr name="text_drawable_direction" >
+
+                        <!-- The drawable to be drawn to the left of the text. -->
+                        <enum
+                            name="left"
+                            value="0" />
+                        <!-- The drawable to be drawn above the text. -->
+                        <enum
+                            name="top"
+                            value="1" />
+                        <!-- The drawable to be drawn to the right of the text. -->
+                        <enum
+                            name="right"
+                            value="2" />
+                        <!-- The drawable to be drawn below the text. -->
+                        <enum
+                            name="bottom"
+                            value="3" />
+                    </attr>
+                    <!-- The width of the drawable to be drawn. -->
+                    <attr
+                        name="text_drawable_width"
+                        format="dimension" />
+                    <!-- The height of the drawable to be drawn. -->
+                    <attr
+                        name="text_drawable_height"
+                        format="dimension" />
+                </declare-styleable>
+                <declare-styleable name="InfoBar" >
+
+                    <!-- Text to display for title. -->
+                    <attr
+                        name="infobar_title_text"
+                        format="string"
+                        localization="suggested" />
+                    <!-- Text appearance to display for title. -->
+                    <attr
+                        name="infobar_title_text_appearance"
+                        format="integer" />
+                    <!-- Text to display for value. -->
+                    <attr
+                        name="infobar_value_text"
+                        format="string"
+                        localization="suggested" />
+                    <!-- Text appearance to display for value. -->
+                    <attr
+                        name="infobar_value_text_appearance"
+                        format="integer" />
+                    <!-- Hint text to display for value. -->
+                    <attr
+                        name="infobar_value_hint"
+                        format="string"
+                        localization="suggested" />
+                    <!-- Text color to display for value hint. -->
+                    <attr
+                        name="infobar_value_hint_color"
+                        format="integer" />
+                    <!-- Drawable to be drawn to the left of title. -->
+                    <attr
+                        name="infobar_drawable"
+                        format="reference" />
+                    <!-- The padding between the drawables and the title text. -->
+                    <attr
+                        name="infobar_drawable_padding"
+                        format="dimension" />
+                    <!-- Drawable to be drawn as arrow to the right of value. -->
+                    <attr
+                        name="infobar_arrow"
+                        format="reference" />
+                    <!-- The direction to be drawn for the arrow drawable. -->
+                    <attr name="arrow_direction" >
+
+                        <!-- Drawable to be drawn to right direction. -->
+                        <enum
+                            name="right"
+                            value="0" />
+                        <!-- Drawable to be drawn to bottom direction. -->
+                        <enum
+                            name="bottom"
+                            value="1" />
+                    </attr>
+                    <!-- When true, show mandatory flag("*") with title text. -->
+                    <attr
+                        name="isMandatory"
+                        format="boolean" />
+                    <!-- When true, show arrow drawable. -->
+                    <attr
+                        name="hasArrow"
+                        format="boolean" />
+                    <!-- When true, show logo drawable. -->
+                    <attr
+                        name="hasDrawable"
+                        format="boolean" />
+                    <!-- The width of the drawable to be drawn. -->
+                    <attr
+                        name="infobar_icon_width"
+                        format="dimension" />
+                    <!-- The height of the drawable to be drawn. -->
+                    <attr
+                        name="infobar_icon_height"
+                        format="dimension" />
+                </declare-styleable>
+            </file>
+            <file
+                path="D:\IdeaProjects\icemanFrameWork\icemanFrame\res\values\colors.xml"
+                qualifiers="" >
+                <color name="ui_bg_divider" >#c1c9ca
+                </color>
+                <color name="title_text_disable" >#4e86bb
+                </color>
+                <color name="ui_edit_hint" >#cccccc
+                </color>
+                <color name="white" >@android:color/white
+                </color>
+                <color name="flignt_list_item_click" >#e1e3e3
+                </color>
+                <color name="pageline_bg" >#88f8f4ed
+                </color>
+                <color name="tab_item_selected_color" >#1491C5
+                </color>
+                <color name="transparent" >#00000000
+                </color>
+                <color name="main_bg" >#f5f5f5
+                </color>
+                <color name="tab_item_normal_color" >#666666
+                </color>
+                <color name="background_dialog" >#99000000
+                </color>
+                <color name="carrental_dark2" >#d7d7d7
+                </color>
+                <color name="text_dialog_title" >#1490c5
+                </color>
+                <color name="table_stroke" >#c1c9ca
+                </color>
+            </file>
+            <file
+                path="D:\IdeaProjects\icemanFrameWork\icemanFrame\res\values\dimens.xml"
+                qualifiers="" >
+                <dimen name="list_error_margin_top1" >20dip
+                </dimen>
+                <dimen name="list_error_margin_top2" >20dip
+                </dimen>
+            </file>
+            <file
+                path="D:\IdeaProjects\icemanFrameWork\icemanFrame\res\values\ids.xml"
+                qualifiers="" >
+                <item
+                    name="load_layout_loading_text"
+                    type="id">
+false
+                </item>
+                <item
+                    name="load_layout_error_text"
+                    type="id">
+false
+                </item>
+                <item
+                    name="load_layout_refreash_btn"
+                    type="id">
+false
+                </item>
+            </file>
+            <file
+                path="D:\IdeaProjects\icemanFrameWork\icemanFrame\res\values\strings.xml"
+                qualifiers="" >
+                <string name="cancel" >取消
+                </string>
+                <string name="ok" >确定
+                </string>
+                <string name="know" >知道了
+                </string>
+                <string name="app_name" >iceman
+                </string>
+                <string name="commom_list_loading_retry" >重试
+                </string>
+                <string name="commom_list_loading_error" >网络问题,请再试试吧
+                </string>
+                <string name="commom_error_no_result" >没有找到符合条件的结果
+                </string>
+            </file>
+            <file
+                path="D:\IdeaProjects\icemanFrameWork\icemanFrame\res\values\styles.xml"
+                qualifiers="" >
+
+                <style name="sdw_black" >
+                    <item name="android:shadowColor">
+#33000000
+                    </item>
+                    <item name="android:shadowDx">
+0
+                    </item>
+                    <item name="android:shadowDy">
+0.65
+                    </item>
+                    <item name="android:shadowRadius">
+1
+                    </item>
+                </style>
+
+                <style
+                    name="Window.DialogAnimation"
+                    parent="@android:style/Animation.Activity" >
+                    <item name="android:windowEnterAnimation">
+@anim/fade_in
+                    </item>
+                    <item name="android:windowExitAnimation">
+@anim/fade_out
+                    </item>
+                </style>
+
+                <style name="text_15_white_ph" >
+                    <item name="android:textSize">
+15dip
+                    </item>
+                    <item name="android:textColor">
+#aaffffff
+                    </item>
+                </style>
+
+                <style name="text_16_555555" >
+                    <item name="android:textSize">
+16dip
+                    </item>
+                    <item name="android:textColor">
+#555555
+                    </item>
+                </style>
+
+                <style
+                    name="userNameEditText"
+                    parent="@style/singleEditText" >
+                    <item name="android:maxLength">
+64
+                    </item>
+                </style>
+
+                <style name="list_cell_divider_vertical" >
+                    <item name="android:background">
+@color/ui_bg_divider
+                    </item>
+                    <item name="android:layout_width">
+2.0px
+                    </item>
+                    <item name="android:layout_height">
+fill_parent
+                    </item>
+                </style>
+
+                <style name="text_18_ffffff" >
+                    <item name="android:textSize">
+18dip
+                    </item>
+                    <item name="android:textColor">
+#ffffff
+                    </item>
+                </style>
+
+                <style name="text_16_515c68" >
+                    <item name="android:textSize">
+16dip
+                    </item>
+                    <item name="android:textColor">
+#515c68
+                    </item>
+                </style>
+
+                <style name="text_12_666666" >
+                    <item name="android:textSize">
+12dip
+                    </item>
+                    <item name="android:textColor">
+#666666
+                    </item>
+                </style>
+
+                <style name="text_15_666666" >
+                    <item name="android:textSize">
+15dip
+                    </item>
+                    <item name="android:textColor">
+#666666
+                    </item>
+                </style>
+
+                <style
+                    name="text_16_cc0000_red_sdw"
+                    parent="@style/sdw_red" >
+                    <item name="android:textSize">
+16dip
+                    </item>
+                    <item name="android:textColor">
+#cc0000
+                    </item>
+                </style>
+
+                <style name="text_16_ffffff" >
+                    <item name="android:textSize">
+16dip
+                    </item>
+                    <item name="android:textColor">
+#ffffff
+                    </item>
+                </style>
+
+                <style name="text_12_333333" >
+                    <item name="android:textSize">
+12dip
+                    </item>
+                    <item name="android:textColor">
+#333333
+                    </item>
+                </style>
+
+                <style name="text_14_ffffff" >
+                    <item name="android:textSize">
+14dip
+                    </item>
+                    <item name="android:textColor">
+#feffff
+                    </item>
+                </style>
+
+                <style name="text_15_1084bc" >
+                    <item name="android:textSize">
+15dip
+                    </item>
+                    <item name="android:textColor">
+#1084bc
+                    </item>
+                </style>
+
+                <style
+                    name="text_16_990000_red_sdw"
+                    parent="@style/sdw_red" >
+                    <item name="android:textSize">
+16dip
+                    </item>
+                    <item name="android:textColor">
+#990000
+                    </item>
+                </style>
+
+                <style name="text_18_1490c5" >
+                    <item name="android:textSize">
+18dip
+                    </item>
+                    <item name="android:textColor">
+#1490c5
+                    </item>
+                </style>
+
+                <style name="text_14_1084bc" >
+                    <item name="android:textSize">
+14dip
+                    </item>
+                    <item name="android:textColor">
+#1084bc
+                    </item>
+                </style>
+
+                <style
+                    name="text_16_ff0000_red_sdw"
+                    parent="@style/sdw_red" >
+                    <item name="android:textSize">
+16dip
+                    </item>
+                    <item name="android:textColor">
+#ff0000
+                    </item>
+                </style>
+
+                <style name="baseEditTexttm" >
+                    <item name="android:textSize">
+15dip
+                    </item>
+                    <item name="android:textColor">
+#333333
+                    </item>
+                    <item name="android:background">
+@null
+                    </item>
+                </style>
+
+                <style
+                    name="ThemeHolo"
+                    parent="android:Theme" >
+                    <item name="android:windowBackground">
+@color/background_dialog
+                    </item>
+                    <item name="android:windowFrame">
+@null
+                    </item>
+                    <item name="android:windowContentOverlay">
+@null
+                    </item>
+                    <item name="android:windowAnimationStyle">
+@style/Window.DialogAnimation
+                    </item>
+                    <item name="android:backgroundDimEnabled">
+false
+                    </item>
+                    <item name="android:windowIsTranslucent">
+true
+                    </item>
+                    <item name="android:windowNoTitle">
+true
+                    </item>
+                </style>
+
+                <style
+                    name="text_22_666666_sdw"
+                    parent="@style/sdw_white" >
+                    <item name="android:textSize">
+22dip
+                    </item>
+                    <item name="android:textColor">
+#666666
+                    </item>
+                </style>
+
+                <style name="text_12_656565" >
+                    <item name="android:textSize">
+12dip
+                    </item>
+                    <item name="android:textColor">
+#656565
+                    </item>
+                </style>
+
+                <style
+                    name="Window.Animation"
+                    parent="@android:style/Animation.Activity" >
+                    <item name="android:activityOpenEnterAnimation">
+@anim/anim_window_in
+                    </item>
+                    <item name="android:activityOpenExitAnimation">
+@anim/anim_window_out
+                    </item>
+                    <item name="android:activityCloseEnterAnimation">
+@anim/anim_window_close_in
+                    </item>
+                    <item name="android:activityCloseExitAnimation">
+@anim/anim_window_close_out
+                    </item>
+                </style>
+
+                <style
+                    name="text_16_666666_red_sdw"
+                    parent="@style/sdw_red" >
+                    <item name="android:textSize">
+16dip
+                    </item>
+                    <item name="android:textColor">
+#666666
+                    </item>
+                </style>
+
+                <style name="sdw_red" >
+                    <item name="android:shadowColor">
+#33ff0000
+                    </item>
+                    <item name="android:shadowDx">
+0
+                    </item>
+                    <item name="android:shadowDy">
+0.65
+                    </item>
+                    <item name="android:shadowRadius">
+1
+                    </item>
+                </style>
+
+                <style name="text_15_black" >
+                    <item name="android:textSize">
+15dip
+                    </item>
+                    <item name="android:textColor">
+#000000
+                    </item>
+                </style>
+
+                <style name="list_cell_divider" >
+                    <item name="android:background">
+@color/ui_bg_divider
+                    </item>
+                    <item name="android:layout_width">
+fill_parent
+                    </item>
+                    <item name="android:layout_height">
+2.0px
+                    </item>
+                </style>
+
+                <style name="text_13_515c68" >
+                    <item name="android:textSize">
+13sp
+                    </item>
+                    <item name="android:textColor">
+#515c68
+                    </item>
+                </style>
+
+                <style name="tab_text_item_style" >
+                    <item name="android:textSize">
+15dip
+                    </item>
+                    <item name="android:textColor">
+@color/tab_item_normal_color
+                    </item>
+                </style>
+
+                <style
+                    name="ModePopupAnimation"
+                    mce_bogus="1"
+                    parent="android:Animation" >
+                    <item name="android:windowEnterAnimation">
+@anim/fade_in
+                    </item>
+                    <item name="android:windowExitAnimation">
+@anim/fade_out
+                    </item>
+                </style>
+
+                <style name="text_12_ffffff" >
+                    <item name="android:textSize">
+12sp
+                    </item>
+                    <item name="android:textColor">
+#ffffff
+                    </item>
+                </style>
+
+                <style name="sdw_white" >
+                    <item name="android:shadowColor">
+#7fffffff
+                    </item>
+                    <item name="android:shadowDx">
+0
+                    </item>
+                    <item name="android:shadowDy">
+0.65
+                    </item>
+                    <item name="android:shadowRadius">
+1
+                    </item>
+                </style>
+
+                <style
+                    name="singleEditText"
+                    parent="@style/baseEditTexttm" >
+                    <item name="android:singleLine">
+true
+                    </item>
+                </style>
+
+                <style name="text_15_333333" >
+                    <item name="android:textSize">
+15dip
+                    </item>
+                    <item name="android:textColor">
+#333333
+                    </item>
+                </style>
+
+                <style name="text_14_333333" >
+                    <item name="android:textSize">
+14dip
+                    </item>
+                    <item name="android:textColor">
+#333333
+                    </item>
+                </style>
+            </file>
+            <file
+                path="D:\IdeaProjects\icemanFrameWork\icemanFrame\res\values\themes.xml"
+                qualifiers="" >
+
+                <style
+                    name="Theme.Ctrip"
+                    parent="@android:style/Theme" >
+                    <item name="android:windowContentOverlay">
+@null
+                    </item>
+                    <item name="android:windowAnimationStyle">
+@style/Window.Animation
+                    </item>
+                    <item name="android:windowNoTitle">
+true
+                    </item>
+                </style>
+            </file>
+        </source>
+        <source path="D:\IdeaProjects\icemanFrameWork\icemanFrame\build\generated\res\rs\debug" />
+        <source path="D:\IdeaProjects\icemanFrameWork\icemanFrame\build\generated\res\generated\debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="D:\IdeaProjects\icemanFrameWork\icemanFrame\build-types\debug\res" />
+    </dataSet>
+
+</merger>

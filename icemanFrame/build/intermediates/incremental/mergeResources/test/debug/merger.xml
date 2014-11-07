@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="main" >
+        <source path="D:\IdeaProjects\icemanFrameWork\icemanFrame\src\androidTest\res" />
+        <source path="D:\IdeaProjects\icemanFrameWork\icemanFrame\build\generated\res\rs\test\debug" />
+        <source path="D:\IdeaProjects\icemanFrameWork\icemanFrame\build\generated\res\generated\test\debug" />
+    </dataSet>
+
+</merger>

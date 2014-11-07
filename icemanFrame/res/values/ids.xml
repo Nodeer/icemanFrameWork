@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    
+    <item name="load_layout_loading_text" type="id">false</item>
+	<item name="load_layout_error_text" type="id">false</item>
+    <item name="load_layout_refreash_btn" type="id">false</item>
+    
+</resources>

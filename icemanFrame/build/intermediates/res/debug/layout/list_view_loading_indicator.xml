@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/white"
+    android:clickable="true"
+    android:gravity="center"
+    android:orientation="horizontal" >
+
+    <ProgressBar
+        style="?android:attr/progressBarStyleSmall"
+        android:layout_width="32dip"
+        android:layout_height="32dip"
+        android:indeterminateDrawable="@drawable/loading_drawable_progress"
+        android:indeterminateOnly="true" />
+
+</LinearLayout><!-- From: file:/D:/IdeaProjects/icemanFrameWork/icemanFrame/res/layout/list_view_loading_indicator.xml -->

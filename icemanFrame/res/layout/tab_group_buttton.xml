@@ -1,0 +1,96 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical" >
+
+<LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:clickable="true"
+        android:orientation="vertical"
+        android:visibility="visible" >
+
+    <RadioGroup
+            android:id="@+id/radio_group_switch"
+            android:layout_width="fill_parent"
+            android:layout_height="44dp"
+            android:layout_gravity="center_horizontal"
+            android:background="#e2e2e2"
+            android:gravity="center_horizontal"
+            android:orientation="horizontal"
+            android:paddingBottom="5dp"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:paddingTop="5dp" >
+
+        <RadioButton
+                android:id="@+id/radioButton0"
+                style="@style/tab_text_item_style"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:button="@null"
+                android:checked="false"
+                android:gravity="center"
+                android:padding="0dp"
+                android:textColor="@color/tab_color_selector" />
+
+        <RadioButton
+                android:id="@+id/radioButton1"
+                style="@style/tab_text_item_style"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:checked="false"
+                android:layout_weight="1"
+                android:button="@null"
+                android:gravity="center"
+                android:padding="0dp"
+                android:textColor="@color/tab_color_selector" />
+
+
+        <RadioButton
+                android:id="@+id/radioButton2"
+                style="@style/tab_text_item_style"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:checked="false"
+                android:layout_weight="1"
+                android:button="@null"
+                android:gravity="center"
+                android:padding="0dp"
+                android:visibility="gone"
+                android:textColor="@color/tab_color_selector" />
+
+    </RadioGroup>
+     </LinearLayout>
+
+    <LinearLayout android:layout_width="match_parent"
+                  android:orientation="horizontal"
+                  android:layout_height="wrap_content"
+            >
+        <View
+                android:id="@+id/anim_view0"
+                android:layout_width="fill_parent"
+                android:layout_weight="1"
+                android:layout_height="4dp"
+                android:background="@color/tab_item_selected_color"/>
+
+        <View
+                android:id="@+id/anim_view1"
+                android:layout_width="fill_parent"
+                android:layout_weight="1"
+                android:visibility="invisible"
+                android:layout_height="4dp"
+                android:background="@color/tab_item_selected_color"/>
+
+        <View
+                android:id="@+id/anim_view2"
+                android:layout_width="fill_parent"
+                android:layout_weight="1"
+                android:visibility="gone"
+                android:layout_height="4dp"
+                android:background="@color/tab_item_selected_color"/>
+
+    </LinearLayout>
+
+  </LinearLayout>

@@ -1,0 +1,5 @@
+<resources>
+
+    <dimen name="list_error_margin_top1">20dip</dimen>
+    <dimen name="list_error_margin_top2">20dip</dimen>
+</resources>

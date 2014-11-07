@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res/com.iceman.yangtze"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/main_bg"
+    android:clickable="true"
+    android:gravity="center_horizontal"
+    android:orientation="vertical" >
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="0dip"
+        android:layout_weight="3" />
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="0dip"
+        android:layout_gravity="center"
+        android:layout_marginTop="@dimen/list_error_margin_top2"
+        android:layout_weight="17"
+        android:gravity="center_horizontal"
+        android:orientation="vertical"
+        android:paddingLeft="25dip"
+        android:paddingRight="25dip" >
+
+        <ImageView
+            android:id="@+id/listview_error_pic"
+            android:layout_width="50dip"
+            android:layout_height="50dip"
+            android:layout_marginTop="@dimen/list_error_margin_top1"
+             />
+
+        <TextView
+            android:id="@id/load_layout_error_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/list_error_margin_top1"
+            android:gravity="center"
+            android:text="@string/commom_error_no_result"
+            android:textAppearance="@style/text_12_666666" />
+    </LinearLayout>
+
+</LinearLayout>

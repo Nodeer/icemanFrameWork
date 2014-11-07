@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheckedTextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@android:id/text1"
+    android:layout_width="fill_parent"
+    android:layout_height="44dip"
+    android:checkMark="@drawable/ic_radiobtn_selector"
+    android:gravity="center_vertical"
+    android:paddingLeft="25dip"
+    android:paddingRight="15dip"
+    android:textColor="@color/single_choice_text_color"
+    android:textSize="15dip" /><!-- From: file:/D:/IdeaProjects/icemanFrameWork/icemanFrame/res/layout/list_item_drop_down_layout.xml -->
